@@ -49,7 +49,15 @@ food_options = {
     "_Olive & Thyme_ Falafel Gyros":['Takeout','Mediterranean','Greek','Sandwich','Falafel'],
     "Okonomiyaki":['Japanese','Carbs','Beef','Specialty Ingredient','Cabbage'],
     "Shepherd's Pie":['English','Pie','Beef','Potato','Big Food'],
-    "Tavern Hand-Pies":['Pie','Sandwich','Beef','Potato','D&D Cookbook','Savory']
+    "Tavern Hand-Pies":['Human','Pie','Sandwich','Beef','Potato','D&D Cookbook','Savory'],
+    "Sword Coast Seafood Bouillabaisse":['French','Seafood','Shellfish','Human','D&D Cookbook','Soup','Tomato'],
+    "Pan-Fried Knucklehead Trout":['Fried','Seafood','Fish','D&D Cookbook','Human'],
+    "Amphail Braised Beef":['Beef','Meat','Human','D&D Cookbook'],
+    "Hommet Golden-Brown Roasted Turkey with Sausage Stuffing and Drippings":['Human','Meat','Turkey','Sausage','D&D Cookbook','Long Prep','Big Food'],
+    "Kara-Tur Noodles":['Asian','Human','Noodles','D&D Cookbook'],
+    "Smoked Salmon Bagel Sandwich":['Sandwich','Seafood','Fish','Jewish'],
+    "Matzo Ball Soup":['Soup','Jewish','Salty'],
+    "Red Lentil & Lime Soup":['Lentils','Soup','Rice','Thai','Vegan']
     }
 
 for i in food_options:
